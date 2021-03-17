@@ -321,6 +321,13 @@ nav ul li {
   font-size: 14px;
 }
 
+#onlineInperson {
+   font-size: 14px;
+   height: 50px;
+   padding-top:0;
+   padding-bottom:0;
+}
+
 .align-heading h2 {
   text-align: center;
 }
