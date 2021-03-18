@@ -749,7 +749,7 @@ nav ul li {
     margin: 9px;
 }
 
-.headerBlock h1, .header-second h2 {
+.header-second h2 {
     font-size: 20px;
     line-height: 26px;
 }
@@ -802,10 +802,26 @@ body {
       margin: 7px;
   }
 
-.headerBlock h1, .header-second h2 {
+.headerBlock h1 span {
+    font-size: 50px;
+}
+
+..header-second h2 {
     font-size: 16px;
     line-height: 23px;
 }
+
+.headerBlock p {
+    font-size: 16px;
+  }
+
+.headerBlock {
+    margin: 14% 0 32% 0;
+}
+
+.icons h3 {
+    font-size: 20px;
+  }
 
 h1, h2 {
     font-size: 18px;
