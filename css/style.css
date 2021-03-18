@@ -41,6 +41,14 @@ h3, h4 {
   color: #3a3e4a;
 }
 
+.btn-primary {
+  background-color: #22577a;
+}
+
+.width100p {
+  width: 100%;
+}
+
 .date {
   font-size: 13px;
   color: #AAB3BC;
@@ -76,6 +84,10 @@ h3, h4 {
 
 .margin-bottom-100 {
   margin-bottom: 100px;
+}
+
+.margin-top-50 {
+  margin-top: 50px;
 }
 
 .min-height-350 {
